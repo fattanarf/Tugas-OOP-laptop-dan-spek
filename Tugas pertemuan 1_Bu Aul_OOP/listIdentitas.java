@@ -18,7 +18,7 @@ public class listIdentitas {
 
         System.out.println("===========================================================");
         System.out.println("Laptop Fattan bermerek: " + merek);
-        System.out.println("karena saya suka " + warna + ", jadi saya pilij warna: " + warna);
+        System.out.println("karena saya suka " + warna + ", jadi saya pilih warna: " + warna);
         System.out.println("dan ber spek: " + spek);
     }
 
